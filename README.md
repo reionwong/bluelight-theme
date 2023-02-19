@@ -1,2 +1,5 @@
 # bluelight-theme
-Elegant blue light theme for emacs
+
+Elegant blue light theme for emacs.
+
+![](screenshot.png)
